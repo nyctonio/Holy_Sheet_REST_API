@@ -18,7 +18,7 @@ Than We can Use 3 things to query for our data
 2. Ending Column no eg-> C5.
 3. sheet id eg -> 
       https://docs.google.com/spreadsheets/d/ --> 1qZVTmeXVBjAxX2zDvaJ3VCz9wkm2PafdlDDN3jO22aQ  <-- /edit?usp=sharing
-      this is Your sheet ID
+      this is Your sheet ID.
 ```
 ### This is the API link 👇🏻
 https://holy-sheet-api.herokuapp.com/
