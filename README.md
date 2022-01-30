@@ -6,11 +6,10 @@ This Api is basically made so that you can import you google sheets data as a JS
 And you can use this api for making you Google sheet as a database LOL 😂 a free database with world class User Interface.
 ```
 
-
 ## How to Use this API ?
 
 ```
-First We have to make a Google sheet and make the link available for public.
+First We have to make a Google sheet and make the link of that sheet available for public.
 ```
 ![image](https://user-images.githubusercontent.com/79045059/123540963-4f771000-d75f-11eb-8392-dfcc919f1ad8.png)
 ```
